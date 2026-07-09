@@ -94,4 +94,4 @@ interfaz = gr.Interface(
     description="Predice si un empleado tiene riesgo de dejar la empresa, basado en el dataset IBM HR Analytics.",
 )
 
-interfaz.launch()
+interfaz.launch(server_name="0.0.0.0", server_port=7860)
