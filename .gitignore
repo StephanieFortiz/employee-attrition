@@ -228,4 +228,4 @@ code .gitignore
 .ipynb_checkpoints/
 
 # Modelos entrenados grandes
-*.pkl
+# *.pkl
